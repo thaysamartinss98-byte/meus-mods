@@ -1,0 +1,7 @@
+{
+  "name": "meus-mods",
+  "owner": { "name": "thaysamartinss98-byte" },
+  "plugins": [
+    { "name": "pixel-wallpaper", "source": "./pixel-wallpaper", "description": "Papel de parede de pixel art azul com estrelas" }
+  ]
+}
